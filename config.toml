@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Nanyang Technological University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "vikramshenoy.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "vikram002@e.ntu.edu.sg"
   address = "Block N4, B2b-05, "
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -128,7 +128,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "vikkyshenoy@gmail.com"
 
-  
+
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
